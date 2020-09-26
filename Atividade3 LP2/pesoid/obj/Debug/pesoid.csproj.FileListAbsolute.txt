@@ -1,0 +1,20 @@
+C:\Users\v-gamer\Desktop\pesoid\pesoid\obj\Debug\pesoid.csprojAssemblyReference.cache
+C:\Users\v-gamer\Desktop\pesoid\pesoid\obj\Debug\pesoid.Form1.resources
+C:\Users\v-gamer\Desktop\pesoid\pesoid\obj\Debug\pesoid.Properties.Resources.resources
+C:\Users\v-gamer\Desktop\pesoid\pesoid\obj\Debug\pesoid.csproj.GenerateResource.cache
+C:\Users\v-gamer\Desktop\pesoid\pesoid\obj\Debug\pesoid.csproj.CoreCompileInputs.cache
+C:\Users\v-gamer\Desktop\pesoid\pesoid\bin\Debug\pesoid.exe.config
+C:\Users\v-gamer\Desktop\pesoid\pesoid\bin\Debug\pesoid.exe
+C:\Users\v-gamer\Desktop\pesoid\pesoid\bin\Debug\pesoid.pdb
+C:\Users\v-gamer\Desktop\pesoid\pesoid\obj\Debug\pesoid.exe
+C:\Users\v-gamer\Desktop\pesoid\pesoid\obj\Debug\pesoid.pdb
+C:\Users\v-gamer\Desktop\Git\LP2\Atividade3 LP2\pesoid\bin\Debug\pesoid.exe.config
+C:\Users\v-gamer\Desktop\Git\LP2\Atividade3 LP2\pesoid\bin\Debug\pesoid.exe
+C:\Users\v-gamer\Desktop\Git\LP2\Atividade3 LP2\pesoid\bin\Debug\pesoid.pdb
+C:\Users\v-gamer\Desktop\Git\LP2\Atividade3 LP2\pesoid\obj\Debug\pesoid.csprojAssemblyReference.cache
+C:\Users\v-gamer\Desktop\Git\LP2\Atividade3 LP2\pesoid\obj\Debug\pesoid.Form1.resources
+C:\Users\v-gamer\Desktop\Git\LP2\Atividade3 LP2\pesoid\obj\Debug\pesoid.Properties.Resources.resources
+C:\Users\v-gamer\Desktop\Git\LP2\Atividade3 LP2\pesoid\obj\Debug\pesoid.csproj.GenerateResource.cache
+C:\Users\v-gamer\Desktop\Git\LP2\Atividade3 LP2\pesoid\obj\Debug\pesoid.csproj.CoreCompileInputs.cache
+C:\Users\v-gamer\Desktop\Git\LP2\Atividade3 LP2\pesoid\obj\Debug\pesoid.exe
+C:\Users\v-gamer\Desktop\Git\LP2\Atividade3 LP2\pesoid\obj\Debug\pesoid.pdb

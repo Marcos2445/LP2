@@ -1,0 +1,10 @@
+C:\Users\v-gamer\Desktop\Exercicio triang\Exercicio triang\obj\Debug\Exercicio triang.csprojAssemblyReference.cache
+C:\Users\v-gamer\Desktop\Exercicio triang\Exercicio triang\obj\Debug\Exercicio_triang.Form1.resources
+C:\Users\v-gamer\Desktop\Exercicio triang\Exercicio triang\obj\Debug\Exercicio_triang.Properties.Resources.resources
+C:\Users\v-gamer\Desktop\Exercicio triang\Exercicio triang\obj\Debug\Exercicio triang.csproj.GenerateResource.cache
+C:\Users\v-gamer\Desktop\Exercicio triang\Exercicio triang\obj\Debug\Exercicio triang.csproj.CoreCompileInputs.cache
+C:\Users\v-gamer\Desktop\Exercicio triang\Exercicio triang\bin\Debug\Exercicio triang.exe.config
+C:\Users\v-gamer\Desktop\Exercicio triang\Exercicio triang\bin\Debug\Exercicio triang.exe
+C:\Users\v-gamer\Desktop\Exercicio triang\Exercicio triang\bin\Debug\Exercicio triang.pdb
+C:\Users\v-gamer\Desktop\Exercicio triang\Exercicio triang\obj\Debug\Exercicio triang.exe
+C:\Users\v-gamer\Desktop\Exercicio triang\Exercicio triang\obj\Debug\Exercicio triang.pdb
