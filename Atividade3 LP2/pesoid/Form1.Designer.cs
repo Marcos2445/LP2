@@ -55,7 +55,7 @@
             // 
             this.Peso.AutoSize = true;
             this.Peso.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Peso.Location = new System.Drawing.Point(40, 124);
+            this.Peso.Location = new System.Drawing.Point(40, 125);
             this.Peso.Name = "Peso";
             this.Peso.Size = new System.Drawing.Size(89, 37);
             this.Peso.TabIndex = 0;
